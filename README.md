@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/CzJQEstIiEI" target="_blank">
+    <a href="#I" target="_blank">
       <img src="assets/readme/hero.webp" alt="Project Banner">
     </a>
   <br />
@@ -13,12 +13,7 @@
 
   <h3 align="center">A Real Estate App</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
-
-## 📋 <a name="table">Table of Contents</a>
+ ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
